@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Trang Bang",
+      "country": "Viet Nam",
+      "emoji": "VN",
+      "date": "2023-12-24T14:19:46.670Z",
+      "notes": "",
+      "position": {
+        "lat": 11.086538845767857,
+        "lng": 106.40121459960939
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Ho Chi Minh City",
+      "country": "Viet Nam",
+      "emoji": "VN",
+      "date": "2023-12-26T03:14:58.544Z",
+      "notes": "",
+      "position": {
+        "lat": 10.723691519255128,
+        "lng": 106.73217773437501
+      },
+      "id": 3
+    }
+  ]
+}
