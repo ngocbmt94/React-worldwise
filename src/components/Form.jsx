@@ -69,7 +69,7 @@ function Form() {
       },
     };
 
-    await createNewCity(newCity); // because createNewCity live in CitiesContext return 1 promiss
+    await createNewCity(newCity);
     navigateFn("/app");
   }
 

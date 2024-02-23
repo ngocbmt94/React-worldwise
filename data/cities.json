@@ -11,6 +11,30 @@
         "lng": 106.73217773437501
       },
       "id": 3
+    },
+    {
+      "cityName": "Ho Chi Minh City",
+      "country": "Viet Nam",
+      "emoji": "VN",
+      "date": "2024-02-23T05:08:41.773Z",
+      "notes": "",
+      "position": {
+        "lat": 10.767543975575924,
+        "lng": 106.5279006958008
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Duc Hoa",
+      "country": "Viet Nam",
+      "emoji": "VN",
+      "date": "2024-02-23T05:19:22.922Z",
+      "notes": "FDSAFAS\n",
+      "position": {
+        "lat": 10.830963782517369,
+        "lng": 106.47571563720705
+      },
+      "id": 5
     }
   ]
 }
